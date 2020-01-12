@@ -320,6 +320,7 @@ class pil_build_ext(build_ext):
     )
 
     def initialize_options(self):
+        self.parallel = None
         self.disable_platform_guessing = None
         self.add_imaging_libs = ""
         build_ext.initialize_options(self)
