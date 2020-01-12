@@ -1,0 +1,15 @@
+# Notes
+
+After cloning this repo
+	https://github.com/serrasqueiro/Pillow.git
+
+follow the upstream repo:
+	% git remote add upstream git://github.com/
+
+You can keep this fork up-to-date with the original fork, as follow.
+
+Updating your fork from original repo to keep up with their changes:
+	% git pull upstream master
+The original Github how-to is here:
+	https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork
+
