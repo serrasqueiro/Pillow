@@ -1,0 +1,6 @@
+Imagery, EXIF information, etc.
+
+HTTPS or SSH: https://github.com/python-pillow/Pillow or git@github.com:python-pillow/Pillow.git
+
+This fork, here: https://github.com/serrasqueiro/Pillow
+
